@@ -8,8 +8,8 @@ def key_for_min_value(name_hash)
     if lowest_num == 0 
       lowest_num = value
     end
-    return lowest_num
   end
+  return lowest_num
 end
 
   # lowest_num = 0 
